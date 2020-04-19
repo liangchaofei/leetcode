@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-03-31 23:12:21
+ * @LastEditTime: 2020-04-19 22:30:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -12,6 +12,8 @@
 
 ### 51-100
 + [54_最大子序列和](https://github.com/liangchaofei/leetcode/blob/master/51-100/53_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
+
++ [66_加一](https://github.com/liangchaofei/leetcode/blob/master/51-100/66.md)
 
 ### 101-150
 
