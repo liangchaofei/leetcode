@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-04-19 22:30:41
+ * @LastEditTime: 2020-04-23 00:06:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -41,6 +41,9 @@
 
 ### 900-950
 + [905_按奇偶排序数组](https://github.com/liangchaofei/leetcode/blob/master/900-950/905.md)
+
+### 1000-1050
++ [1047_删除字符串中的所有相邻重复项](https://github.com/liangchaofei/leetcode/blob/master/1000-1050/1047.md)
 
 ### 1251-1300
 + [448_统计位数为偶数的数字](https://github.com/liangchaofei/leetcode/blob/master/1251-1300/1295.md)
