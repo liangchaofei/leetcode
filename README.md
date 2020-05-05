@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-05-05 15:53:53
+ * @LastEditTime: 2020-05-05 17:18:13
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -9,6 +9,7 @@
 # leetcode
 
 ### 1-50
++ [17_电话号码的字母组合](https://github.com/liangchaofei/leetcode/blob/master/1-50/17.md)
 
 ### 51-100
 + [54_最大子序列和](https://github.com/liangchaofei/leetcode/blob/master/51-100/53_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
@@ -40,7 +41,7 @@
 + [485_最大连续1的个数](https://github.com/liangchaofei/leetcode/blob/master/451-500/485_%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 
 ### 651-700
-+[计数二进制子串](https://github.com/liangchaofei/leetcode/blob/master/651-700/696.md)
++[696_计数二进制子串](https://github.com/liangchaofei/leetcode/blob/master/651-700/696.md)
 
 ### 900-950
 + [905_按奇偶排序数组](https://github.com/liangchaofei/leetcode/blob/master/900-950/905.md)
