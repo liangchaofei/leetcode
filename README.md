@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-05-11 22:44:18
+ * @LastEditTime: 2020-05-13 17:46:05
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -9,6 +9,8 @@
 # leetcode
 
 ### 1-50
++ [14_最长公共前缀](https://github.com/liangchaofei/leetcode/blob/master/1-50/14.md)
+
 + [17_电话号码的字母组合](https://github.com/liangchaofei/leetcode/blob/master/1-50/17.md)
 
 + [41_缺失的第一个正数](https://github.com/liangchaofei/leetcode/blob/master/1-50/41.md)
