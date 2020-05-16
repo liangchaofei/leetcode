@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-05-16 09:26:17
+ * @LastEditTime: 2020-05-16 10:21:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -29,6 +29,7 @@
 
 ### 201-250
 + [215_数组中的第K个最大元素](https://github.com/liangchaofei/leetcode/blob/master/201-250/215.md)
++ [242_有效的字母异位词](https://github.com/liangchaofei/leetcode/blob/master/201-250/242.md)
 
 ### 251-300
 + [268_缺失数字](https://github.com/liangchaofei/leetcode/blob/master/251-300/268_%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.md)
