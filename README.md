@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-05-18 11:19:19
+ * @LastEditTime: 2020-05-19 09:28:00
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -24,7 +24,7 @@
 
 ### 101-150
 + [125_验证回文字符串](https://github.com/liangchaofei/leetcode/blob/master/101-150/125.md)
-
++ [136_只出现一次的数字](https://github.com/liangchaofei/leetcode/blob/master/101-150/136.md)
 ### 151-200
 + [164_最大间距](https://github.com/liangchaofei/leetcode/blob/master/151-200/164.md)
 + [189_旋转数组](https://github.com/liangchaofei/leetcode/blob/master/151-200/189.md)
