@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-06-01 21:46:57
+ * @LastEditTime: 2020-06-02 09:14:18
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -25,6 +25,7 @@
 + [54_最大子序列和](https://github.com/liangchaofei/leetcode/blob/master/51-100/53_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
 
 + [66_加一](https://github.com/liangchaofei/leetcode/blob/master/51-100/66.md)
++ [75_颜色分类](https://github.com/liangchaofei/leetcode/blob/master/51-100/75.md)
 
 + [88_合并两个有序数组](https://github.com/liangchaofei/leetcode/blob/master/51-100/88.md)
 
