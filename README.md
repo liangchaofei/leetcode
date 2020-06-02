@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-06-02 09:14:18
+ * @LastEditTime: 2020-06-02 09:38:50
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -51,7 +51,7 @@
 
 ### 301-350
 + [344_反转字符串](https://github.com/liangchaofei/leetcode/blob/master/301-350/344.md)
-
++ [347_前K个高频元素](https://github.com/liangchaofei/leetcode/blob/master/301-350/347.md)
 + [349_两个数组的交集](https://github.com/liangchaofei/leetcode/blob/master/301-350/349_%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
 
 + [387_字符串中的第一个唯一字符](https://github.com/liangchaofei/leetcode/blob/master/301-350/387.md)
