@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-06-03 09:02:31
+ * @LastEditTime: 2020-06-03 09:29:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -15,6 +15,7 @@
 + [14_最长公共前缀](https://github.com/liangchaofei/leetcode/blob/master/1-50/14.md)
 
 + [17_电话号码的字母组合](https://github.com/liangchaofei/leetcode/blob/master/1-50/17.md)
++ [20_缺失数字](https://github.com/liangchaofei/leetcode/blob/master/1-50/20.md)
 + [26_删除排序数组中的重复项](https://github.com/liangchaofei/leetcode/blob/master/1-50/26.md)
 + [28_实现strStr()](https://github.com/liangchaofei/leetcode/blob/master/1-50/28.md)
 + [33_搜索旋转排序数组](https://github.com/liangchaofei/leetcode/blob/master/1-50/33.md)
