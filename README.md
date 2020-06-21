@@ -29,7 +29,7 @@
 + [75_颜色分类](https://github.com/liangchaofei/leetcode/blob/master/51-100/75.md)
 
 + [88_合并两个有序数组](https://github.com/liangchaofei/leetcode/blob/master/51-100/88.md)
-+ [92_反转链表 II](https://github.com/liangchaofei/leetcode/blob/master/51-100/92.md)
++ [92_反转链表II](https://github.com/liangchaofei/leetcode/blob/master/51-100/92.md)
 ### 101-150
 + [121_买卖股票的最佳时机 I](https://github.com/liangchaofei/leetcode/blob/master/101-150/121.md)
 + [122_买卖股票的最佳时机 II](https://github.com/liangchaofei/leetcode/blob/master/101-150/122.md)
