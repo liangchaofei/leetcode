@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-07-02 21:40:17
+ * @LastEditTime: 2020-07-03 23:02:59
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -34,7 +34,7 @@
 ### 101-150
 + [121_买卖股票的最佳时机 I](https://github.com/liangchaofei/leetcode/blob/master/101-150/121.md)
 + [122_买卖股票的最佳时机 II](https://github.com/liangchaofei/leetcode/blob/master/101-150/122.md)
-+ [123_买卖股票的最佳时机 III](https://github.com/liangchaofei/leetcode/blob/master/101-150/123.md)
++ [123_买卖股票的最佳时机III](https://github.com/liangchaofei/leetcode/blob/master/101-150/123.md)
 + [125_验证回文字符串](https://github.com/liangchaofei/leetcode/blob/master/101-150/125.md)
 + [136_只出现一次的数字](https://github.com/liangchaofei/leetcode/blob/master/101-150/136.md)
 + [141_环形链表](https://github.com/liangchaofei/leetcode/blob/master/101-150/141.md)
