@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-07-03 23:02:59
+ * @LastEditTime: 2020-07-04 22:42:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -10,6 +10,7 @@
 
 ### 1-50
 + [1_两数之和](https://github.com/liangchaofei/leetcode/blob/master/1-50/1.md)
++ [1_两数之加](https://github.com/liangchaofei/leetcode/blob/master/1-50/2.md)
 + [7_整数反转](https://github.com/liangchaofei/leetcode/blob/master/1-50/7.md)
 + [8_字符串转换整数 (atoi)](https://github.com/liangchaofei/leetcode/blob/master/1-50/8.md)
 + [14_最长公共前缀](https://github.com/liangchaofei/leetcode/blob/master/1-50/14.md)
