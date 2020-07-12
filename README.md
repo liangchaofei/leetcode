@@ -103,4 +103,4 @@
 + [448_统计位数为偶数的数字](https://github.com/liangchaofei/leetcode/blob/master/1251-1300/1295.md)
 
 ## 剑指offer
-+ [06_从尾到头打印链表 ](https://github.com/liangchaofei/leetcode/blob/master/1-50/offer_6.md)
++ [06_从尾到头打印链表](https://github.com/liangchaofei/leetcode/blob/master/1-50/offer_6.md)
