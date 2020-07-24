@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-07-23 23:51:37
+ * @LastEditTime: 2020-07-24 20:04:21
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -22,7 +22,7 @@
 + [18_四数之和](https://github.com/liangchaofei/leetcode/blob/master/1-50/18.md)
 + [20_缺失数字](https://github.com/liangchaofei/leetcode/blob/master/1-50/20.md)
 + [21_合并两个有序链表](https://github.com/liangchaofei/leetcode/blob/master/1-50/21.md)
-+ [26_删除排序数组中的重复项](https://github.com/liangchaofei/leetcode/blob/master/1-50/26.md)
++ [26_删除排序数组中的重复项 ](https://github.com/liangchaofei/leetcode/blob/master/1-50/26.md)
 + [27_移除元素](https://github.com/liangchaofei/leetcode/blob/master/1-50/27.md)
 + [28_实现strStr()](https://github.com/liangchaofei/leetcode/blob/master/1-50/28.md)
 + [33_搜索旋转排序数组](https://github.com/liangchaofei/leetcode/blob/master/1-50/33.md)
