@@ -20,7 +20,7 @@
 + [16_最接近的三数之和](https://github.com/liangchaofei/leetcode/blob/master/1-50/16.md)
 + [17_电话号码的字母组合](https://github.com/liangchaofei/leetcode/blob/master/1-50/17.md)
 + [18_四数之和](https://github.com/liangchaofei/leetcode/blob/master/1-50/18.md)
-+ [19_删除链表的倒数第N个节点](https://github.com/liangchaofei/leetcode/blob/master/1-50/19.md)
++ [19_删除链表的倒数第N个节点 ](https://github.com/liangchaofei/leetcode/blob/master/1-50/19.md)
 + [20_缺失数字](https://github.com/liangchaofei/leetcode/blob/master/1-50/20.md)
 + [21_合并两个有序链表](https://github.com/liangchaofei/leetcode/blob/master/1-50/21.md)
 + [26_删除排序数组中的重复项 ](https://github.com/liangchaofei/leetcode/blob/master/1-50/26.md)
