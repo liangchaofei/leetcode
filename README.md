@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-08-01 23:20:59
+ * @LastEditTime: 2020-08-01 23:42:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -42,6 +42,7 @@
 + [94_二叉树的中序遍历](https://github.com/liangchaofei/leetcode/blob/master/51-100/94.md)
 ### 101-150
 + [104_二叉树的最大深度](https://github.com/liangchaofei/leetcode/blob/master/101-150/104.md)
++ [112_路径总和](https://github.com/liangchaofei/leetcode/blob/master/101-150/112.md)
 + [121_买卖股票的最佳时机 I](https://github.com/liangchaofei/leetcode/blob/master/101-150/121.md)
 + [122_买卖股票的最佳时机 II](https://github.com/liangchaofei/leetcode/blob/master/101-150/122.md)
 + [123_买卖股票的最佳时机III](https://github.com/liangchaofei/leetcode/blob/master/101-150/123.md)
