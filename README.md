@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-15 22:36:11
- * @LastEditTime: 2020-08-02 11:19:54
+ * @LastEditTime: 2020-08-02 17:13:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /leetcode/README.md
@@ -75,7 +75,7 @@
 + [268_缺失数字](https://github.com/liangchaofei/leetcode/blob/master/251-300/268_%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.md)
 + [278_第一个错误的版本](https://github.com/liangchaofei/leetcode/blob/master/251-300/278.md)
 + [283_移动零](https://github.com/liangchaofei/leetcode/blob/master/251-300/283.md)
-
++ [300_ 最长上升子序列](https://github.com/liangchaofei/leetcode/blob/master/251-300/300.md)
 ### 301-350
 + [343_整数拆分](https://github.com/liangchaofei/leetcode/blob/master/301-350/343.md)
 + [344_反转字符串](https://github.com/liangchaofei/leetcode/blob/master/301-350/344.md)
