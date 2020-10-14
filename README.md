@@ -23,7 +23,7 @@
 + [34_在排序数组中查找元素的第一个和最后一个位置](https://github.com/liangchaofei/leetcode/blob/master/1-50/34.md)
 + [41_缺失的第一个正数](https://github.com/liangchaofei/leetcode/blob/master/1-50/41.md)
 + [48_旋转图像](https://github.com/liangchaofei/leetcode/blob/master/1-50/48.md)
-+ [49_字母异位词分组](https://github.com/liangchaofei/leetcode/blob/master/1-50/49.md)
++ [49_字母异位词分组 ](https://github.com/liangchaofei/leetcode/blob/master/1-50/49.md)
 ### 51-100
 + [54_最大子序列和](https://github.com/liangchaofei/leetcode/blob/master/51-100/53_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
 
