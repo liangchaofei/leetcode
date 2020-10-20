@@ -19,7 +19,7 @@
 + [26_删除排序数组中的重复项 ](https://github.com/liangchaofei/leetcode/blob/master/1-50/26.md)
 + [27_移除元素](https://github.com/liangchaofei/leetcode/blob/master/1-50/27.md)
 + [28_实现strStr()](https://github.com/liangchaofei/leetcode/blob/master/1-50/28.md)
-+ [33_搜索旋转排序数组](https://github.com/liangchaofei/leetcode/blob/master/1-50/33.md)
++ [33_搜索旋转排序数组 ](https://github.com/liangchaofei/leetcode/blob/master/1-50/33.md)
 + [34_在排序数组中查找元素的第一个和最后一个位置](https://github.com/liangchaofei/leetcode/blob/master/1-50/34.md)
 + [41_缺失的第一个正数](https://github.com/liangchaofei/leetcode/blob/master/1-50/41.md)
 + [48_旋转图像](https://github.com/liangchaofei/leetcode/blob/master/1-50/48.md)
