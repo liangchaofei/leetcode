@@ -31,6 +31,7 @@
 + [70_爬楼梯](https://github.com/liangchaofei/leetcode/blob/master/51-100/70.md)
 + [75_颜色分类](https://github.com/liangchaofei/leetcode/blob/master/51-100/75.md)
 + [80_删除排序数组中的重复项 II](https://github.com/liangchaofei/leetcode/blob/master/51-100/80.md)
++ [82_删除排序链表中的重复元素 II](https://github.com/liangchaofei/leetcode/blob/master/51-100/82.md)
 + [86_分割链表](https://github.com/liangchaofei/leetcode/blob/master/51-100/86.md)
 + [88_合并两个有序数组](https://github.com/liangchaofei/leetcode/blob/master/51-100/88.md)
 + [92_反转链表 II](https://github.com/liangchaofei/leetcode/blob/master/51-100/92.md)
