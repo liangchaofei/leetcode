@@ -21,4 +21,3 @@ var plusOne = function(digits) {
    digits[0] = 1;
    return digits;
 };
-console.log(plusOne(arr))
