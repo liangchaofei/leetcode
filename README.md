@@ -12,7 +12,6 @@
 - [15\_三数之和](https://github.com/liangchaofei/leetcode/blob/master/1-50/15.md)
 - [16\_最接近的三数之和](https://github.com/liangchaofei/leetcode/blob/master/1-50/16.md)
 - [17\_电话号码的字母组合](https://github.com/liangchaofei/leetcode/blob/master/1-50/17.md)
-
 - [18\_四数之和](https://github.com/liangchaofei/leetcode/blob/master/1-50/18.md)
 - [19\_删除链表的倒数第 N 个节点](https://github.com/liangchaofei/leetcode/blob/master/1-50/19.md)
 - [20\_缺失数字](https://github.com/liangchaofei/leetcode/blob/master/1-50/20.md)
